@@ -1,1 +1,2 @@
-# Fighter-v1
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
